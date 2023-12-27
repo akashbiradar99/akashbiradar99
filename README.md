@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI, AWS, Spring-Boot, Java**
 
-- 💬 Ask me about **Java, Spring-Boot,**
+- 💬 Ask me about **Java, Spring-Boot, SQL, OpenSearch**
 
 - 📫 How to reach me **akashbiradar99@gmail.com**
 
